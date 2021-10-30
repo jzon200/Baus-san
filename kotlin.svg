@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0.003" stop-color="#e44857"/>
+      <stop offset="0.469" stop-color="#c711e1"/>
+      <stop offset="1" stop-color="#7f52ff"/>
+    </linearGradient>
+  </defs>
+  <path id="kotlin-color-icon" d="M80,80H16V16H80L48,48Z" transform="translate(-16 -16)" fill="url(#linear-gradient)"/>
+</svg>
