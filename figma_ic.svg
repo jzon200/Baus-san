@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="125" height="125" viewBox="0 0 125 125">
+  <g id="figma_ic" transform="translate(-121 -504)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="125" height="125" rx="18" transform="translate(121 504)" fill="#2f303b"/>
+    <g id="figma-1" transform="translate(154 522)">
+      <path id="Path_2" data-name="Path 2" d="M15,230a15.005,15.005,0,0,0,15-15V200H15a15,15,0,1,0,0,30Z" transform="translate(0 -140)" fill="#0acf83"/>
+      <path id="Path_3" data-name="Path 3" d="M0,115a15.005,15.005,0,0,1,15-15H30v30H15A15.005,15.005,0,0,1,0,115Z" transform="translate(0 -70)" fill="#a259ff"/>
+      <path id="Path_4" data-name="Path 4" d="M0,15A15.005,15.005,0,0,1,15,0H30V30H15A15.005,15.005,0,0,1,0,15Z" fill="#f24e1e"/>
+      <path id="Path_5" data-name="Path 5" d="M100,0h15a15,15,0,0,1,0,30H100Z" transform="translate(-70)" fill="#ff7262"/>
+      <path id="Path_6" data-name="Path 6" d="M130,115a15,15,0,1,1-15-15A15.005,15.005,0,0,1,130,115Z" transform="translate(-70 -70)" fill="#1abcfe"/>
+    </g>
+  </g>
+</svg>
