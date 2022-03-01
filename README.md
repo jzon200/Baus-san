@@ -13,6 +13,9 @@
   </a>
   <a href="https://code.visualstudio.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="visual_studio_code_logo" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank"> 
+    <img src="https://firebase.google.com/downloads/brand-guidelines/SVG/logo-logomark.svg" alt="firebase_logo" width="40" height="40"/>
   </a> 
   <a href="https://www.figma.com/" target="_blank"> 
     <img src="/figma_ic.svg" alt="figma" width="40" height="40"/> 
