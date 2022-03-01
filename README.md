@@ -1,6 +1,6 @@
 # 👋 I'm Edzon Bausa
 
-### Languages, Frameworks, and Tools
+### Languages and Tools
 <p align="left"> 
   <a href="https://dart.dev/" target="_blank"> 
     <img src="https://plugins.jetbrains.com/files/6351/160215/icon/pluginIcon.svg" alt="dart_logo" width="40" height="40"/>
