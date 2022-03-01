@@ -1,4 +1,4 @@
-# 👋 I'm Edzon, Flutter Developer
+# 👋 I'm Edzon Bausa <br> - Flutter Developer
 
 ### Languages and Tools
 <p align="left"> 
@@ -7,6 +7,9 @@
   </a> 
   <a href="https://flutter.dev/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true.svg" alt="flutter_logo" width="40" height="40"/>
+  </a>
+  <a href="https://bloclibrary.dev/#/" target="_blank"> 
+    <img src="https://felixangelov.gallerycdn.vsassets.io/extensions/felixangelov/bloc/6.5.0/1643679536747/Microsoft.VisualStudio.Services.Icons.Default" alt="bloc_logo" width="40" height="40"/>
   </a> 
   <a href="https://code.visualstudio.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="visual_studio_code_logo" width="40" height="40"/>
